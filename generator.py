@@ -4,8 +4,8 @@ import argparse
 import sys
 
 # Default file paths assume you've cloned the repo.
-DEFAULT_FIRST_PATH = "lists/first_names.txt" 
-DEFAULT_LAST_PATH = "lists/surnames.txt"
+DEFAULT_FIRST_PATH = "first_names.txt" 
+DEFAULT_LAST_PATH = "surnames.txt"
 
 def load_names(filename):
     with open(filename, "r", encoding="utf-8") as f:
