@@ -998,6 +998,6 @@ Rowland,
 Whitney,
 Duke,
 Odom,
-Daughertyf,
+Daugherty,
 Travis,
 Tang
